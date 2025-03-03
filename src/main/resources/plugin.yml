@@ -1,0 +1,6 @@
+name: DiscordMinecraftChat
+version: 1.0.0
+main: net.minichip.discordminecraftchat.DiscordMinecraftChat
+api-version: 1.16
+description: "Discord와 마인크래프트 채팅 연동 플러그인"
+author: minichip3
